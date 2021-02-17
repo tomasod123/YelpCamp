@@ -1,3 +1,5 @@
+// Modules are self-contained units of functionality that can be shared and reused across projects
+// When you have a module that exports just the one thing, it’s more common to use module.exports:
 module.exports = [
     {
         city: "New York",
